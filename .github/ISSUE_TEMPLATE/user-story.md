@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**En tant que** ...
- **J'ai besoin** ...
- **Afin de** ...
+**En tant que** [rôle]
+ **J'ai besoin** [fonction]
+ **Afin de** [bénéfice]
    
  ### Détails et hypothèses
  * [documentez ce que vous savez]
@@ -17,7 +17,7 @@ assignees: ''
  ### Critères d'acceptation  
    
  ```gherkin
- Étant donné [certain contexte]
- Quand [une certaine action est effectuée]
- Alors [le résultat de l'action est observé]
+ Étant donné [contexte]
+ Quand [action]
+ Alors [resultat]
  ```
